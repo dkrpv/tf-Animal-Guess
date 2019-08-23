@@ -7,3 +7,5 @@ For color recognition I will use Pillow (Python Imaging Library)
 Update 19:57: It appears that most animal databases are online.
   Update 20:03 - Im making the database with like a 1000 pictures myself.
   
+p.s 
+Also noticed a problem with the colorcode idea, if for normal animals it will work just fine, for cat's and dogs of different breeds it doesn't. Oh well.
