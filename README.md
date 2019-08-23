@@ -5,3 +5,5 @@ You give the "Animal Guesser 9000" a picture, and it tries to guess what animal 
 I shall most likely feed tensorflow the color codes and the position of colors compared to each other, and see how will it work.
 For color recognition I will use Pillow (Python Imaging Library)
 Update 19:57: It appears that most animal databases are online.
+  Update 20:03 - Im making the database with like a 1000 pictures myself.
+  
