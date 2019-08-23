@@ -12,3 +12,4 @@ Also noticed a problem with the colorcode idea, if for normal animals it will wo
 
 20:18
 AHAHAHAHHA, Problem solved, I shall make the user feed their animal pictures to my Neural Net, thus I don't need a giant database.
+  p.s - Jahu declined the idea.
