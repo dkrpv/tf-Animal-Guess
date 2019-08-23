@@ -9,3 +9,5 @@ Update 19:57: It appears that most animal databases are online.
   
 p.s 
 Also noticed a problem with the colorcode idea, if for normal animals it will work just fine, for cat's and dogs of different breeds it doesn't. Oh well.
+
+AHAHAHAHHA, Problem solved, I shall make the user feed their animal pictures to my Neural Net, thus I don't need a giant database.
