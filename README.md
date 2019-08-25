@@ -16,3 +16,8 @@ AHAHAHAHHA, Problem solved, I shall make the user feed their animal pictures to 
 
 20:27
 I din't find any datasets for animals, but found a giant dog breed database. My animal guesser is now a dog guesser.
+
+10:06 25/08/2019
+I spent so much time making the working prototype incase my grand plan fails, I don't have time to make the neuralnet
+
+I guess im showing the prototype
