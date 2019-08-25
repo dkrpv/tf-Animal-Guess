@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Dog Guesser</title>
+  </head>
+  <body>
+    <form class="form" autocomplete="off" spellcheck="false" id="formlink" name="formlink" method="POST">
+              <label for="name">Image link</label>
+		<input type="text" name="linktxt" id="linktxt">		
+		<input type="submit" value="Send">              
+          </form>
+	<h1>Looks like a {{context['dog']}}</h1>
+	<img src="{{context['img1']}}" style="width: 200px">
+	<div>
+		<img src="{{context['img1']}}" style="width: 200px; position: absolute; opacity: 0.5;">
+		<img src="{{context['img2']}}" style="width: 200px; position: absolute; opacity: 0.5;">
+	</div>
+	<img src="{{context['img2']}}" style= "width: 200px; position: relative; top: 190px;">
+  </body>
+</html>
