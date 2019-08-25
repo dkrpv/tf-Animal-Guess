@@ -21,3 +21,13 @@ I din't find any datasets for animals, but found a giant dog breed database. My 
 I spent so much time making the working prototype incase my grand plan fails, I don't have time to make the neuralnet
 
 I guess im showing the prototype
+
+The web version is temporarily available at http://dkarpov.com:5000/
+And to run the code on your computer
+1. Install python 3
+2. Install python-pip linux - sudo apt install python-pip, on windows python -m pip install --upgrade pip
+3-Linux. run pip install Pillow
+pip install colorama
+3-Windows. run pip install Pillow
+pip install colorama
+4. cd yourself into the directory "tf-Animal-Guess-Master" and run - python main.py
